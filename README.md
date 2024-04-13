@@ -1,4 +1,4 @@
-<![WebApiAcoes](./gif/GifProjeto.gif)
+![WebApiAcoes](./gif/GifProjeto.gif)
 
 
 
