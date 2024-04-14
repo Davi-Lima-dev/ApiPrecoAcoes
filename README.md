@@ -1,8 +1,6 @@
 ![WebApiAcoes](./gif/GifProjeto.gif)
 
 
-
-
 ## 💻 Sobre o projeto
 
 Bem-vindo à API de Dados de Ações, sua fonte confiável para informações sobre o desempenho diário e mensal das ações. Explore um vasto tesouro de dados financeiros e acompanhe o pulso do mercado com detalhes precisos sobre os valores de abertura, alta, baixa e fechamento das ações.
@@ -14,7 +12,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - C#
 - WebApi
 - Swagger
-- HttpClient Framework
+- HttpClient 
 
 ## 🚀 Instalação e execução
 
